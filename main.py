@@ -64,7 +64,7 @@ def verify_password(username, password):
             choice = input("Enter your choice: ")
 
             if choice == "1":
-                webbrowser.open("https://github.com/VoldemortMrRobot/Pr0j3cts")
+                webbrowser.open("https://github.com/VoldemortMrRobot/L0g1n-Project/blob/main/main.py")
             elif choice == "2":
                 webbrowser.open("https://github.com/VoldemortMrRobot")
             elif choice == "3":
